@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deepshikha"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Ronan Fablet"
+name                     : &name "Deepshikha"
 description              : &description "personal description"
 url                      : https://rfablet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deepshikha.github.io"
-teaser                   : 500x300.png# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 500x300.png# filename of teaser fallback teaser image placed in /images/, .e.g. "2019-08-31-22-19-11-287.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
