@@ -10,8 +10,12 @@ redirect_from:
 
 <div style="text-align: justify">   
 
-I am a <strong>Professor at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a></strong> and a research scientist at <strong><a href="https://www.lab-sticc.fr">Lab-STICC</a></strong> in the field of <strong>Data Science and Computational Imaging</strong>. I am quite involved in interdisciplinary research at the <strong>interface between data science and ocean science</strong>, especially space oceanography and marine ecology. My current research interests include <strong>deep learning for dynamical systems and applications to the understanding, analysis, simulation and reconstruction of ocean dynamics</strong>, especially using satellite ocean remote sensing data. 
-<br> <img src="https://rfablet.github.io/images/im-datawave.jpg" width="768" align ="middle">
+
+Deepshikha is a  <strong>Sr. Data Scientist at <a href="https://www.nvidia.com/en-in/">NVIDIA</a><strong>. where her efforts are focused on building deep learning powered products and solutions . She has an experience of development of DL/ML products and solutions end to end.  Deepshikha is a Researcher with a background in Computer Science. Prior to NVIDIA, she worked as a AI researcher in NetApp R&D where she was focused on computer Vision algorithms. She holds a master’s degree in computer science  and Mathematics from Indian Institute of Technology, Patna where she mainly worked on NLP and Textual data under supervision of Dr. Pushpak Bhattacharyya. In her bachelor she worked on Autonomous robot as her Bachelor thesis. 
+
+Her current research areas include – Multimodal Networks, Uncertainty in models,  Reinforcement learning and Autonomous application.
+
+
 <!--</div>
 <div style="text-align: justify">-->
 </div>
