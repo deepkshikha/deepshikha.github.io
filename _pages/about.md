@@ -19,4 +19,10 @@ Her current research areas include – Multimodal Networks, Uncertainty in model
 <!--</div>
 <div style="text-align: justify">-->
 
+</div>
+## Recent posts
+##{% for post in site.posts %}
+##   - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+
+{% endfor %}
 
